@@ -1,0 +1,1 @@
+import{w as a}from"./o3m2f5Jq.js";a();
